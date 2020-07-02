@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "393423680775",
+    "firebase_url": "https://maxfit-dev-1defe.firebaseio.com",
+    "project_id": "maxfit-dev-1defe",
+    "storage_bucket": "maxfit-dev-1defe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393423680775:android:a584563a8072d5aa38c1a2",
+        "android_client_info": {
+          "package_name": "com.vladtest.vladfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393423680775-6nf607do37kvefj63ep7dcaqhmnolpoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgnuYzebaxynXfd_WqAmM3SjGSAmK6nkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393423680775-6nf607do37kvefj63ep7dcaqhmnolpoh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
